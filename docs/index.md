@@ -1,1 +1,1 @@
-[testmap](https://github.com/jeeemil/urbgis-2020/blob/main/docs/emilest.html)
+[testmap](https://github.com/jeeemil/urbgis-2020/emilest.html)
